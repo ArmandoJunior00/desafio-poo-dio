@@ -33,5 +33,7 @@ public class Main {
         mentoria2.setDescricao("descricao mentoria js");
         mentoria2.setData(LocalDate.now());
         System.out.println(mentoria2);
+
+        System.out.println("Encapsulamento e abstração");
     }
 }
